@@ -40,8 +40,8 @@ spring:
 aws:
   #endPointUrl:
   bucket:
-  accessKey: AKIAJUFJBG5KPLMKTFFA
-  secretKey: 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
+  accessKey:
+  secretKey:
 
 eureka:
   instance:
